@@ -1,5 +1,2 @@
-$(window).ready(function(){
-$(".tag").click(function(){
-wdwdwdwdw
-}
+
 })
